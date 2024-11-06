@@ -13,6 +13,6 @@ The primary source of data used here is Data Sale.csv and this is an open source
 
 ### Tools Used
 ---
-- Microsoft Excel for Data cleaning, Analysis and Visualiation
-- SQL
+- Microsoft Excel for Data cleaning, Analysis and Visualiation [View Here](https://universityoflagos-my.sharepoint.com/:x:/g/personal/210904532_live_unilag_edu_ng/EfAjdREbKdtLiUYcM23R8i4B9U07nKqqV9HeGTRXiCL9hQ?e=qreUNC)
+- SQL 
 - GitHub for portfolio Building
